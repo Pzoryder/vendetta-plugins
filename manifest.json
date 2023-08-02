@@ -1,0 +1,18 @@
+{
+    "authors": [
+        {
+            "id": 343383572805058560,
+            "name": "Vendicated"
+        }
+    ],
+    "links": {
+        
+    },
+    "version": "1.0.4",
+    "changelogMedia": null,
+    "description": "Makes apngs embeds animate properly",
+    "pluginClassName": "dev.vendicated.aliucordplugs.animateapngs.AnimateApngs",
+    "changelog": null,
+    "name": "AnimateApngs",
+    "updateUrl": "https://raw.githubusercontent.com/Vendicated/AliucordPlugins/builds/updater.json"
+}
